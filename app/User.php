@@ -12,6 +12,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that are mass assignable.
+     * 批量赋值的属性
      *
      * @var array
      */
@@ -21,6 +22,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that should be hidden for arrays.
+     * 隐藏属性
      *
      * @var array
      */
